@@ -375,3 +375,33 @@
   width:86px;
   word-wrap:break-word;
 }
+#u85_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:12px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:18px;
+}
+#u85 {
+  position:absolute;
+  left:57px;
+  top:35px;
+  width:12px;
+  height:22px;
+  font-size:18px;
+}
+#u86 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:12px;
+  white-space:nowrap;
+}
